@@ -1,0 +1,13 @@
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\bin\Debug\les batonnets 1.0.exe.config
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\bin\Debug\les batonnets 1.0.exe
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\bin\Debug\les batonnets 1.0.pdb
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\obj\Debug\les batonnets 1.0.csprojAssemblyReference.cache
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\obj\Debug\les_batonnets_1._0.Form1.resources
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\obj\Debug\les_batonnets_1._0.Properties.Resources.resources
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\obj\Debug\les batonnets 1.0.csproj.GenerateResource.cache
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\obj\Debug\les batonnets 1.0.exe
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\obj\Debug\les batonnets 1.0.pdb
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\bin\Debug\les batonnets 1.0.exe.manifest
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\bin\Debug\les batonnets 1.0.application
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\obj\Debug\les batonnets 1.0.exe.manifest
+C:\Users\cleme\source\repos\les batonnets 1.0\les batonnets 1.0\obj\Debug\les batonnets 1.0.application
