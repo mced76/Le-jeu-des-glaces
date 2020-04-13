@@ -98,7 +98,8 @@ namespace les_batonnets_1._0
                 }
                 else
                 {
-                    Thread.Sleep(200);
+                    Application.DoEvents(); // Refresh UI Thread
+                    Thread.Sleep(1000); //  Waiting a little
                     GlaceJoueParBot = 3;
                     if (GlaceRestante - GlaceJoueParBot - 3 >= 1 || GlaceRestante - GlaceJoueParBot == 0)
                     {
